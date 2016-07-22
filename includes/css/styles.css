@@ -1,0 +1,89 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+.navbar-default {
+  background-color: white;
+}
+.navbar-brand {
+  pading:13 px;15px;
+}
+
+   #searchInput {
+      width:200px;
+   }
+   .jumbotron{
+     margin-top: 80px;
+     background-repeat: no-repeat;
+
+      color:black;
+     height:650px;
+
+   }
+#para{
+  font-style: normal;
+  margin-top: 100px;
+}
+
+#jumbo2 {
+
+  height:400px;
+}
+#row2image{
+  margin-top: 80px;
+}
+
+
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
