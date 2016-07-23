@@ -45,7 +45,9 @@ Notes:	 Hand coded for Udemy.com
    }
 #para{
   font-style: normal;
-  margin-top: 100px;
+  margin-top: 120px;
+  font-family:  inherit;
+  font-size: 17px;
 }
 
 #jumbo2 {
@@ -56,7 +58,76 @@ Notes:	 Hand coded for Udemy.com
   margin-top: 80px;
 }
 
+.footer {
+  margin-top: 40px;
+  background-color: #f5f5f5;
+  width:100%;
+  height:80px;
 
+}
+
+.list-inline{
+  padding-right: 100px;
+}
+
+.list-inline>li{
+  display:inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 15px;
+
+}
+.copyright{
+  padding-top: 20px;
+  padding-left: 15px;
+}
+  h4 {
+    color:#428bca;
+}
+p.container{
+  padding-top: 20px;
+}
+
+
+h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-weight: 500;
+    font-family: serif;
+    font-stretch: semi-expanded;
+}
+.color_14{
+  width:341px;
+  height:105px;
+
+}
+#Product{
+  padding-left: 20px;
+}
+
+#col1_head{
+  margin-top: 40px;
+  }
+  #classic{
+    font-weight: 50px;
+  }
+  #paragraph1{
+    font-size: 20px;
+  }
+  #paragraph2{
+    font-size: 20px;
+  }
+  #paragraph3{
+    font-size: 20px;
+  }
+  #featuresHeading{
+  margin-top: 40px;
+  padding-left: 20px;
+}
 /* --------------------------------------
    Carousel
    -------------------------------------- */
